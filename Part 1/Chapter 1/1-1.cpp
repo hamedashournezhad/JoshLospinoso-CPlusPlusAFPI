@@ -14,7 +14,7 @@
 
 int absolute_value(int x)
 {
-	if(x >= 0) return x;
+	if(x >= 0) return (number - (number * 2));
 	else       return -x;
 }
 
